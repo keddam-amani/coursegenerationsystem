@@ -59,12 +59,6 @@ The system’s output was evaluated using a set of NLP and LLM-informed metrics,
 - **Word Count Analysis** – Measures consistency and conciseness across content blocks.
 - **Factual Accuracy** – Using the verification system to label information quality.
 
-###  Examples of Some Evaluation Results
-
-<img width="280" alt="Screenshot 2025-05-24 at 00 21 29" src="https://github.com/user-attachments/assets/e569378a-2e1c-4ba0-aa16-074a99922606" />
-
-<img width="291" alt="Screenshot 2025-05-24 at 00 23 11" src="https://github.com/user-attachments/assets/dbab1644-2470-4984-b6ed-5b2a29c081e8" />
-
 ---
 
 ##  Skills & Technologies Used
