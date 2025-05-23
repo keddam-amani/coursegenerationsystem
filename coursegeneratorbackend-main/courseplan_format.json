@@ -1,0 +1,85 @@
+{
+    "course": [
+        {
+            "id": "1",
+            "lesson_title": "Lesson Title",
+            "description": "Lesson description",
+            "learningObjectives": [
+                "Learning Objective",
+                "Learning Objective",
+                "...",
+                "Learning Objective"
+            ],
+            "topics": [
+                {
+                    "title": "Topic Title",
+                    "description": "Topic Description",
+                    "subtopics": [
+                        "Subtopic",
+                        "Subtopic",
+                        "Subtopic"
+                    ]
+                },
+                {
+                    "title": "Topic Title",
+                    "description": "Topic Description",
+                    "subtopics": [
+                        "Subtopic",
+                        "Subtopic",
+                        "Subtopic",
+                        "Subtopic"
+                    ]
+                },
+                {
+                    "title": "Topic Title",
+                    "description": "Topic Description",
+                    "subtopics": [
+                        "Subtopic",
+                        "Subtopic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "lesson_title": "Lesson Title",
+            "topics": [
+                {
+                    "title": "Topic Title",
+                    "description": "Topic Description",
+                    "subtopics": [
+                        "Subtopic",
+                        "Subtopic"
+                    ]
+                },
+                {
+                    "title": "Topic Title",
+                    "description": "Topic Description",
+                    "subtopics": [
+                        "Subtopic",
+                        "Subtopic",
+                        "Subtopic",
+                        "Subtopic"
+                    ]
+                },
+                {
+                    "title": "Topic Title",
+                    "description": "Topic Description",
+                    "subtopics": [
+                        "Subtopic",
+                        "Subtopic",
+                        "Subtopic"
+                        
+                    ]
+                }
+            ],
+            "description": "Lesson description",
+            "learningObjectives": [
+                "Learning Objective",
+                "Learning Objective",
+                "...",
+                "Learning Objective"
+            ]    
+        }
+    ]
+}

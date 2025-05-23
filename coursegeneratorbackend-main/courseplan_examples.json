@@ -1,0 +1,1571 @@
+{
+    "Example": [
+        {
+            "Course_title": "CS50's Introduction to Computer Science",
+            "Course_description": "This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course which teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming",
+            "Prerequisites": "none",
+            "course": [
+                {
+                    "id": "0",
+                    "lesson_title": "Scratch",
+                    "description": "Introduction to the basics of programming using Scratch, a visual programming language.",
+                    "learningObjectives": [
+                        "Understand the basic interface and features of Scratch",
+                        "Create simple projects using Scratch",
+                        "Learn fundamental programming concepts such as loops, conditionals, and variables"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction to Scratch",
+                            "description": "Overview of Scratch and its interface.",
+                            "subtopics": [
+                                "Overview of Scratch",
+                                "Creating a Scratch Account",
+                                "Basic Scratch Interface",
+                                "Sprites and Costumes",
+                                "Basic Blocks",
+                                "Creating Simple Projects"
+                            ]
+                        },
+                        {
+                            "title": "Programming Concepts",
+                            "description": "Learn fundamental programming concepts using Scratch.",
+                            "subtopics": [
+                                "Events",
+                                "Control Structures",
+                                "Sensing",
+                                "Operators",
+                                "Variables"
+                            ]
+                        },
+                        {
+                            "title": "Advanced Scratch Features",
+                            "description": "Explore more advanced features of Scratch.",
+                            "subtopics": [
+                                "Broadcasting",
+                                "Cloning",
+                                "Custom Blocks",
+                                "Sound and Music",
+                                "Sharing Projects"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1",
+                    "lesson_title": "C",
+                    "description": "Introduction to the C programming language and its applications.",
+                    "learningObjectives": [
+                        "Understand the syntax and structure of C programs",
+                        "Learn to write and compile C programs",
+                        "Implement basic algorithms using C"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction to C",
+                            "description": "Overview of the C programming language.",
+                            "subtopics": [
+                                "History and Features of C",
+                                "Setting Up the Programming Environment",
+                                "Writing and Compiling C Programs"
+                            ]
+                        },
+                        {
+                            "title": "Basic Syntax and Structure",
+                            "description": "Learn the basic syntax and structure of C programs.",
+                            "subtopics": [
+                                "Variables and Data Types",
+                                "Operators",
+                                "Control Structures",
+                                "Functions"
+                            ]
+                        },
+                        {
+                            "title": "Pointers and Memory Management",
+                            "description": "Introduction to pointers and memory management in C.",
+                            "subtopics": [
+                                "Understanding Pointers",
+                                "Dynamic Memory Allocation",
+                                "Pointer Arithmetic"
+                            ]
+                        },
+                        {
+                            "title": "Input and Output",
+                            "description": "Learn how to handle input and output in C.",
+                            "subtopics": [
+                                "Standard Input and Output",
+                                "File I/O",
+                                "Formatted I/O"
+                            ]
+                        },
+                        {
+                            "title": "Debugging and Error Handling",
+                            "description": "Techniques for debugging and error handling in C.",
+                            "subtopics": [
+                                "Using a Debugger",
+                                "Common Errors and Warnings",
+                                "Error Handling Techniques"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "lesson_title": "Arrays",
+                    "description": "Introduction to arrays in C and their applications.",
+                    "learningObjectives": [
+                        "Understand the concept of arrays and how they are used in C",
+                        "Learn to declare, initialize, and access arrays",
+                        "Implement basic algorithms using arrays"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction to Arrays",
+                            "description": "Overview of arrays and their uses.",
+                            "subtopics": [
+                                "What are Arrays?",
+                                "Declaring and Initializing Arrays",
+                                "Accessing Array Elements"
+                            ]
+                        },
+                        {
+                            "title": "Multi-dimensional Arrays",
+                            "description": "Learn about multi-dimensional arrays.",
+                            "subtopics": [
+                                "2D Arrays",
+                                "3D Arrays",
+                                "Applications of Multi-dimensional Arrays"
+                            ]
+                        },
+                        {
+                            "title": "Array Algorithms",
+                            "description": "Implement basic algorithms using arrays.",
+                            "subtopics": [
+                                "Searching Algorithms",
+                                "Sorting Algorithms",
+                                "Matrix Operations"
+                            ]
+                        },
+                        {
+                            "title": "Dynamic Arrays",
+                            "description": "Introduction to dynamic arrays.",
+                            "subtopics": [
+                                "Understanding Dynamic Arrays",
+                                "Implementing Dynamic Arrays",
+                                "Applications of Dynamic Arrays"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "lesson_title": "Algorithms",
+                    "description": "Introduction to algorithms and their importance in computer science.",
+                    "learningObjectives": [
+                        "Understand the concept of algorithms",
+                        "Learn to analyze the efficiency of algorithms",
+                        "Implement common algorithms in C"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction to Algorithms",
+                            "description": "Overview of algorithms and their significance.",
+                            "subtopics": [
+                                "What is an Algorithm?",
+                                "Importance of Algorithms",
+                                "Types of Algorithms"
+                            ]
+                        },
+                        {
+                            "title": "Algorithm Analysis",
+                            "description": "Learn to analyze the efficiency of algorithms.",
+                            "subtopics": [
+                                "Time Complexity",
+                                "Space Complexity",
+                                "Big O Notation"
+                            ]
+                        },
+                        {
+                            "title": "Sorting Algorithms",
+                            "description": "Introduction to common sorting algorithms.",
+                            "subtopics": [
+                                "Bubble Sort",
+                                "Selection Sort",
+                                "Insertion Sort",
+                                "Merge Sort",
+                                "Quick Sort"
+                            ]
+                        },
+                        {
+                            "title": "Searching Algorithms",
+                            "description": "Learn about common searching algorithms.",
+                            "subtopics": [
+                                "Linear Search",
+                                "Binary Search",
+                                "Depth-First Search",
+                                "Breadth-First Search"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "lesson_title": "Memory",
+                    "description": "Introduction to memory management in C.",
+                    "learningObjectives": [
+                        "Understand the concept of memory management",
+                        "Learn about different types of memory",
+                        "Implement memory management techniques in C"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Memory Management",
+                            "description": "Overview of memory management in C.",
+                            "subtopics": [
+                                "Memory Allocation",
+                                "Memory Deallocation",
+                                "Memory Leaks"
+                            ]
+                        },
+                        {
+                            "title": "Types of Memory",
+                            "description": "Learn about different types of memory.",
+                            "subtopics": [
+                                "Stack Memory",
+                                "Heap Memory",
+                                "Static Memory"
+                            ]
+                        },
+                        {
+                            "title": "Dynamic Memory Management",
+                            "description": "Introduction to dynamic memory management.",
+                            "subtopics": [
+                                "Malloc and Free",
+                                "Realloc",
+                                "Common Pitfalls"
+                            ]
+                        },
+                        {
+                            "title": "Advanced Memory Concepts",
+                            "description": "Explore advanced memory management concepts.",
+                            "subtopics": [
+                                "Memory Fragmentation",
+                                "Garbage Collection",
+                                "Memory Optimization Techniques"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "lesson_title": "Data Structures",
+                    "description": "Introduction to data structures and their applications.",
+                    "learningObjectives": [
+                        "Understand different types of data structures",
+                        "Learn to implement and use data structures in C",
+                        "Analyze the efficiency of data structures"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction to Data Structures",
+                            "description": "Overview of data structures and their importance.",
+                            "subtopics": [
+                                "What are Data Structures?",
+                                "Types of Data Structures",
+                                "Choosing the Right Data Structure"
+                            ]
+                        },
+                        {
+                            "title": "Linear Data Structures",
+                            "description": "Learn about linear data structures.",
+                            "subtopics": [
+                                "Arrays",
+                                "Linked Lists",
+                                "Stacks",
+                                "Queues"
+                            ]
+                        },
+                        {
+                            "title": "Non-linear Data Structures",
+                            "description": "Introduction to non-linear data structures.",
+                            "subtopics": [
+                                "Trees",
+                                "Graphs",
+                                "Heaps"
+                            ]
+                        },
+                        {
+                            "title": "Hashing",
+                            "description": "Learn about hashing and hash tables.",
+                            "subtopics": [
+                                "What is Hashing?",
+                                "Hash Functions",
+                                "Hash Tables",
+                                "Collision Handling"
+                            ]
+                        },
+                        {
+                            "title": "Advanced Data Structures",
+                            "description": "Explore advanced data structures.",
+                            "subtopics": [
+                                "Tries",
+                                "Segment Trees",
+                                "Fenwick Trees",
+                                "Disjoint Sets"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "lesson_title": "Python",
+                    "description": "Introduction to the Python programming language and its applications.",
+                    "learningObjectives": [
+                        "Understand the syntax and structure of Python programs",
+                        "Learn to write and execute Python scripts",
+                        "Implement basic algorithms using Python"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction to Python",
+                            "description": "Overview of the Python programming language.",
+                            "subtopics": [
+                                "History and Features of Python",
+                                "Setting Up the Programming Environment",
+                                "Writing and Executing Python Scripts"
+                            ]
+                        },
+                        {
+                            "title": "Basic Syntax and Structure",
+                            "description": "Learn the basic syntax and structure of Python programs.",
+                            "subtopics": [
+                                "Variables and Data Types",
+                                "Operators",
+                                "Control Structures",
+                                "Functions"
+                            ]
+                        },
+                        {
+                            "title": "Data Structures in Python",
+                            "description": "Introduction to data structures in Python.",
+                            "subtopics": [
+                                "Lists",
+                                "Tuples",
+                                "Sets",
+                                "Dictionaries"
+                            ]
+                        },
+                        {
+                            "title": "File Handling",
+                            "description": "Learn how to handle files in Python.",
+                            "subtopics": [
+                                "Reading and Writing Files",
+                                "File Operations",
+                                "Error Handling in File Operations"
+                            ]
+                        },
+                        {
+                            "title": "Modules and Packages",
+                            "description": "Introduction to modules and packages in Python.",
+                            "subtopics": [
+                                "Importing Modules",
+                                "Creating Modules",
+                                "Using Packages"
+                            ]
+                        },
+                        {
+                            "title": "Error and Exception Handling",
+                            "description": "Learn about error and exception handling in Python.",
+                            "subtopics": [
+                                "Understanding Exceptions",
+                                "Handling Exceptions",
+                                "Raising Exceptions"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "lesson_title": "SQL",
+                    "description": "Introduction to SQL and database management.",
+                    "learningObjectives": [
+                        "Understand the basics of SQL",
+                        "Learn to create and manage databases",
+                        "Perform data manipulation and querying using SQL"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction to Databases",
+                            "description": "Overview of databases and their importance.",
+                            "subtopics": [
+                                "What is a Database?",
+                                "Types of Databases",
+                                "Database Management Systems"
+                            ]
+                        },
+                        {
+                            "title": "SQL Basics",
+                            "description": "Learn the basics of SQL.",
+                            "subtopics": [
+                                "SQL Syntax",
+                                "Data Types",
+                                "Basic SQL Commands"
+                            ]
+                        },
+                        {
+                            "title": "Data Manipulation",
+                            "description": "Perform data manipulation using SQL.",
+                            "subtopics": [
+                                "INSERT",
+                                "UPDATE",
+                                "DELETE"
+                            ]
+                        },
+                        {
+                            "title": "Data Querying",
+                            "description": "Learn to query data using SQL.",
+                            "subtopics": [
+                                "SELECT",
+                                "WHERE",
+                                "ORDER BY",
+                                "GROUP BY",
+                                "JOIN"
+                            ]
+                        },
+                        {
+                            "title": "Database Design",
+                            "description": "Introduction to database design.",
+                            "subtopics": [
+                                "Normalization",
+                                "Entity-Relationship Diagrams",
+                                "Indexing"
+                            ]
+                        },
+                        {
+                            "title": "Advanced SQL",
+                            "description": "Explore advanced SQL topics.",
+                            "subtopics": [
+                                "Stored Procedures",
+                                "Triggers",
+                                "Views",
+                                "Transactions"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "lesson_title": "HTML, CSS, JavaScript",
+                    "description": "Introduction to the building blocks of web development: HTML, CSS, and JavaScript.",
+                    "learningObjectives": [
+                        "Understand the structure of HTML documents",
+                        "Learn how to style web pages using CSS",
+                        "Implement interactive features using JavaScript"
+                    ],
+                    "topics": [
+                        {
+                            "title": "HTML (Hypertext Markup Language)",
+                            "description": "Introduction to HTML and its elements.",
+                            "subtopics": [
+                                "Basic HTML Structure",
+                                "HTML Elements and Attributes",
+                                "Forms"
+                            ]
+                        },
+                        {
+                            "title": "CSS (Cascading Style Sheets)",
+                            "description": "Using CSS to style web pages.",
+                            "subtopics": [
+                                "Inline Styles",
+                                "Internal Stylesheets",
+                                "External Stylesheets",
+                                "CSS Properties",
+                                "Selectors",
+                                "Specificity"
+                            ]
+                        },
+                        {
+                            "title": "JavaScript",
+                            "description": "Introduction to JavaScript and its applications.",
+                            "subtopics": [
+                                "Basic Syntax and Structure",
+                                "DOM Manipulation",
+                                "Event Handling",
+                                "Functions and Scope"
+                            ]
+                        },
+                        {
+                            "title": "Advanced JavaScript",
+                            "description": "Explore advanced JavaScript topics.",
+                            "subtopics": [
+                                "Asynchronous JavaScript",
+                                "APIs and AJAX",
+                                "JavaScript Libraries and Frameworks"
+                            ]
+                        },
+                        {
+                            "title": "Responsive Design",
+                            "description": "Creating web pages that are responsive to different screen sizes.",
+                            "subtopics": [
+                                "Viewport",
+                                "Media Queries",
+                                "Flexbox",
+                                "Grid"
+                            ]
+                        },
+                        {
+                            "title": "Bootstrap",
+                            "description": "Using the Bootstrap framework for responsive design.",
+                            "subtopics": [
+                                "Including Bootstrap",
+                                "Grid System",
+                                "Responsive Utilities"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "lesson_title": "Flask",
+                    "description": "Introduction to Flask, a micro web framework for Python.",
+                    "learningObjectives": [
+                        "Understand the basics of Flask",
+                        "Learn to create web applications using Flask",
+                        "Implement routing and view functions in Flask"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction to Flask",
+                            "description": "Overview of Flask and its features.",
+                            "subtopics": [
+                                "What is Flask?",
+                                "Setting Up the Flask Environment",
+                                "Creating a Basic Flask Application"
+                            ]
+                        },
+                        {
+                            "title": "Routing",
+                            "description": "Learn about routing in Flask.",
+                            "subtopics": [
+                                "Defining Routes",
+                                "URL Parameters",
+                                "HTTP Methods"
+                            ]
+                        },
+                        {
+                            "title": "Templates",
+                            "description": "Using templates to render HTML in Flask.",
+                            "subtopics": [
+                                "Jinja2 Templating Engine",
+                                "Template Inheritance",
+                                "Including Static Files"
+                            ]
+                        },
+                        {
+                            "title": "Forms and User Input",
+                            "description": "Handling forms and user input in Flask.",
+                            "subtopics": [
+                                "Form Handling",
+                                "Validation",
+                                "WTForms"
+                            ]
+                        },
+                        {
+                            "title": "Database Integration",
+                            "description": "Integrating databases with Flask applications.",
+                            "subtopics": [
+                                "SQLAlchemy",
+                                "Flask-Migrate",
+                                "Performing CRUD Operations"
+                            ]
+                        },
+                        {
+                            "title": "Advanced Flask",
+                            "description": "Explore advanced Flask topics.",
+                            "subtopics": [
+                                "Flask Blueprints",
+                                "Authentication and Authorization",
+                                "Testing Flask Applications"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "10",
+                    "lesson_title": "Cybersecurity",
+                    "description": "Introduction to cybersecurity principles and practices.",
+                    "learningObjectives": [
+                        "Understand the basics of cybersecurity",
+                        "Learn about common threats and vulnerabilities",
+                        "Implement security best practices to protect applications"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction to Cybersecurity",
+                            "description": "Overview of cybersecurity and its importance.",
+                            "subtopics": [
+                                "What is Cybersecurity?",
+                                "Importance of Cybersecurity",
+                                "Cybersecurity Terminology"
+                            ]
+                        },
+                        {
+                            "title": "Common Threats and Vulnerabilities",
+                            "description": "Learn about common threats and vulnerabilities.",
+                            "subtopics": [
+                                "Malware",
+                                "Phishing",
+                                "SQL Injection",
+                                "Cross-Site Scripting (XSS)"
+                            ]
+                        },
+                        {
+                            "title": "Security Best Practices",
+                            "description": "Implement security best practices to protect applications.",
+                            "subtopics": [
+                                "Password Management",
+                                "Data Encryption",
+                                "Network Security",
+                                "Secure Coding Practices"
+                            ]
+                        },
+                        {
+                            "title": "Incident Response",
+                            "description": "Learn about incident response and recovery.",
+                            "subtopics": [
+                                "Incident Response Plan",
+                                "Detecting and Responding to Incidents",
+                                "Post-Incident Recovery"
+                            ]
+                        },
+                        {
+                            "title": "Advanced Cybersecurity Concepts",
+                            "description": "Explore advanced cybersecurity concepts.",
+                            "subtopics": [
+                                "Ethical Hacking",
+                                "Penetration Testing",
+                                "Security Audits",
+                                "Cybersecurity Tools and Techniques"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+{
+    "Example": [
+        {
+            "Course_title": "Web application",
+            "Course description": "This course picks up where CS50: Introduction to computer science leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, students learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By semester’s end, students emerge with knowledge and experience in principles, languages, and tools that empower them to design and deploy applications on the Internet.",
+            "Prerequisites": "CS50: Introduction to computer science or prior experience in any programming language.",
+            "course": [
+                {
+                    "id": "1",
+                    "lesson_title": "HTML and CSS",
+                    "description": "Introduction to the building blocks of web development: HTML and CSS.",
+                    "learningObjectives": [
+                        "Understand the structure of HTML documents",
+                        "Learn how to style web pages using CSS",
+                        "Implement responsive design principles"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction",
+                            "description": "Introduction to web programming and the tools needed for the course.",
+                            "subtopics": [
+                                "Course Overview",
+                                "Text Editors"
+                            ]
+                        },
+                        {
+                            "title": "HTML (Hypertext Markup Language)",
+                            "description": "Introduction to HTML and its elements.",
+                            "subtopics": [
+                                "Basic HTML Structure",
+                                "HTML Elements and Attributes",
+                                "Forms"
+                            ]
+                        },
+                        {
+                            "title": "Document Object Model (DOM)",
+                            "description": "Understanding the DOM and its tree-like structure.",
+                            "subtopics": [
+                                "DOM Structure",
+                                "Manipulating the DOM"
+                            ]
+                        },
+                        {
+                            "title": "More HTML Elements",
+                            "description": "Exploring additional HTML elements to customize web pages.",
+                            "subtopics": [
+                                "Headings",
+                                "Lists",
+                                "Links",
+                                "Images",
+                                "Tables"
+                            ]
+                        },
+                        {
+                            "title": "CSS (Cascading Style Sheets)",
+                            "description": "Using CSS to style web pages.",
+                            "subtopics": [
+                                "Inline Styles",
+                                "Internal Stylesheets",
+                                "External Stylesheets",
+                                "CSS Properties",
+                                "Selectors",
+                                "Specificity"
+                            ]
+                        },
+                        {
+                            "title": "Responsive Design",
+                            "description": "Creating web pages that are responsive to different screen sizes.",
+                            "subtopics": [
+                                "Viewport",
+                                "Media Queries",
+                                "Flexbox",
+                                "Grid"
+                            ]
+                        },
+                        {
+                            "title": "Bootstrap",
+                            "description": "Using the Bootstrap framework for responsive design.",
+                            "subtopics": [
+                                "Including Bootstrap",
+                                "Grid System",
+                                "Responsive Utilities"
+                            ]
+                        },
+                        {
+                            "title": "Sass (Syntactically Awesome Style Sheets)",
+                            "description": "Enhancing CSS with Sass.",
+                            "subtopics": [
+                                "Variables",
+                                "Nesting",
+                                "Inheritance",
+                                "Compiling Sass"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "lesson_title": "Git",
+                    "description": "Introduction to version control using Git and GitHub.",
+                    "learningObjectives": [
+                        "Understand the basics of Git and version control",
+                        "Learn how to use GitHub for remote repository management",
+                        "Handle merge conflicts and branching in Git"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction",
+                            "description": "Overview of version control and its importance in web development.",
+                            "subtopics": [
+                                "Version Control Basics",
+                                "Benefits of Using Git"
+                            ]
+                        },
+                        {
+                            "title": "Git",
+                            "description": "Introduction to Git and its fundamental commands.",
+                            "subtopics": [
+                                "Creating a Repository",
+                                "Tracking Changes",
+                                "Synchronizing Code",
+                                "Reverting Changes"
+                            ]
+                        },
+                        {
+                            "title": "GitHub",
+                            "description": "Using GitHub for remote repository management.",
+                            "subtopics": [
+                                "Creating a GitHub Account",
+                                "Creating and Cloning Repositories",
+                                "Pushing and Pulling Changes",
+                                "Managing Repository Visibility"
+                            ]
+                        },
+                        {
+                            "title": "Commits",
+                            "description": "Committing changes to a Git repository.",
+                            "subtopics": [
+                                "Making Commits",
+                                "Writing Commit Messages",
+                                "Viewing Commit History"
+                            ]
+                        },
+                        {
+                            "title": "Merge Conflicts",
+                            "description": "Handling merge conflicts in Git.",
+                            "subtopics": [
+                                "Understanding Merge Conflicts",
+                                "Resolving Conflicts",
+                                "Using git log"
+                            ]
+                        },
+                        {
+                            "title": "Branching",
+                            "description": "Using branches to manage different versions of a project.",
+                            "subtopics": [
+                                "Creating and Switching Branches",
+                                "Merging Branches",
+                                "Best Practices for Branching"
+                            ]
+                        },
+                        {
+                            "title": "More GitHub Features",
+                            "description": "Additional features provided by GitHub.",
+                            "subtopics": [
+                                "Forking Repositories",
+                                "Creating Pull Requests",
+                                "Using GitHub Pages"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "lesson_title": "Python",
+                    "description": "Introduction to Python programming, covering basic to advanced topics.",
+                    "learningObjectives": [
+                        "Understand Python syntax and semantics",
+                        "Learn how to work with variables, data types, and structures",
+                        "Develop skills in writing functions and using modules",
+                        "Explore object-oriented and functional programming in Python",
+                        "Handle exceptions and errors in Python"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction",
+                            "description": "Overview of Python and its significance in web development.",
+                            "subtopics": [
+                                "Python Basics",
+                                "Python 2 vs. Python 3"
+                            ]
+                        },
+                        {
+                            "title": "Variables",
+                            "description": "Understanding variables and data types in Python.",
+                            "subtopics": [
+                                "Assigning Variables",
+                                "Data Types"
+                            ]
+                        },
+                        {
+                            "title": "Formatting Strings",
+                            "description": "Working with strings and formatted strings (f-strings) in Python.",
+                            "subtopics": [
+                                "String Concatenation",
+                                "Formatted Strings"
+                            ]
+                        },
+                        {
+                            "title": "Conditions",
+                            "description": "Using conditional statements to control the flow of programs.",
+                            "subtopics": [
+                                "if, elif, else Statements",
+                                "Boolean Expressions"
+                            ]
+                        },
+                        {
+                            "title": "Sequences",
+                            "description": "Working with different types of sequences in Python.",
+                            "subtopics": [
+                                "Strings",
+                                "Lists",
+                                "Tuples",
+                                "Sets",
+                                "Dictionaries"
+                            ]
+                        },
+                        {
+                            "title": "Loops",
+                            "description": "Using loops to iterate over sequences.",
+                            "subtopics": [
+                                "For Loops",
+                                "While Loops",
+                                "Loop Control Statements"
+                            ]
+                        },
+                        {
+                            "title": "Functions",
+                            "description": "Defining and using functions in Python.",
+                            "subtopics": [
+                                "Function Definitions",
+                                "Function Calls",
+                                "Parameters and Arguments"
+                            ]
+                        },
+                        {
+                            "title": "Modules",
+                            "description": "Using modules to organize and reuse code.",
+                            "subtopics": [
+                                "Importing Modules",
+                                "Built-in Modules",
+                                "Creating Custom Modules"
+                            ]
+                        },
+                        {
+                            "title": "Object-Oriented Programming",
+                            "description": "Understanding the principles of object-oriented programming.",
+                            "subtopics": [
+                                "Classes and Objects",
+                                "Attributes and Methods",
+                                "Inheritance and Polymorphism"
+                            ]
+                        },
+                        {
+                            "title": "Functional Programming",
+                            "description": "Exploring functional programming concepts in Python.",
+                            "subtopics": [
+                                "Decorators",
+                                "Lambda Functions",
+                                "Higher-Order Functions"
+                            ]
+                        },
+                        {
+                            "title": "Exceptions",
+                            "description": "Handling exceptions and errors in Python.",
+                            "subtopics": [
+                                "Try-Except Blocks",
+                                "Raising Exceptions",
+                                "Custom Exception Classes"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "lesson_title": "Django",
+                    "description": "Introduction to the Django web framework for creating dynamic web applications.",
+                    "learningObjectives": [
+                        "Understand the basics of web applications and HTTP",
+                        "Learn how to set up and use Django",
+                        "Create and manage routes and templates in Django",
+                        "Implement form handling and sessions"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction",
+                            "description": "Overview of Django and its importance in web development.",
+                            "subtopics": [
+                                "Static vs. Dynamic Web Applications",
+                                "Introduction to HTTP"
+                            ]
+                        },
+                        {
+                            "title": "Django",
+                            "description": "Getting started with Django.",
+                            "subtopics": [
+                                "Installing Django",
+                                "Creating a Django Project",
+                                "Understanding Project Structure"
+                            ]
+                        },
+                        {
+                            "title": "Routes",
+                            "description": "Creating and managing routes in Django.",
+                            "subtopics": [
+                                "Creating Views",
+                                "Configuring URLs",
+                                "URL Patterns and Views"
+                            ]
+                        },
+                        {
+                            "title": "Templates",
+                            "description": "Using templates to render dynamic HTML content.",
+                            "subtopics": [
+                                "Creating Templates",
+                                "Rendering Templates",
+                                "Passing Context to Templates",
+                                "Template Inheritance"
+                            ]
+                        },
+                        {
+                            "title": "Conditionals",
+                            "description": "Using conditionals in templates.",
+                            "subtopics": [
+                                "Conditional Statements in Templates",
+                                "Dynamic Content Rendering"
+                            ]
+                        },
+                        {
+                            "title": "Styling",
+                            "description": "Adding CSS styling to Django applications.",
+                            "subtopics": [
+                                "Including CSS Files",
+                                "Using Static Files in Templates"
+                            ]
+                        },
+                        {
+                            "title": "Tasks",
+                            "description": "Creating a mini-project: TODO list application.",
+                            "subtopics": [
+                                "Creating a New App",
+                                "Managing Tasks",
+                                "Rendering Task Lists"
+                            ]
+                        },
+                        {
+                            "title": "Forms",
+                            "description": "Handling user input with forms.",
+                            "subtopics": [
+                                "Creating HTML Forms",
+                                "Handling Form Submissions",
+                                "Form Validation"
+                            ]
+                        },
+                        {
+                            "title": "Django Forms",
+                            "description": "Using Django's forms module for form handling.",
+                            "subtopics": [
+                                "Creating Forms with Django Forms",
+                                "Rendering Django Forms in Templates",
+                                "Form Validation with Django"
+                            ]
+                        },
+                        {
+                            "title": "Sessions",
+                            "description": "Using sessions to store user data.",
+                            "subtopics": [
+                                "Understanding Sessions",
+                                "Implementing Sessions in Django",
+                                "Storing and Retrieving Data with Sessions"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "lesson_title": "SQL, Models, and Migrations",
+                    "description": "Learn how to use SQL and Django models to efficiently store and access data in web applications.",
+                    "learningObjectives": [
+                        "Understand the basics of SQL and relational databases",
+                        "Learn to create and manage databases and tables",
+                        "Perform CRUD operations with SQL",
+                        "Utilize Django models to interact with databases",
+                        "Understand and apply migrations in Django"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction",
+                            "description": "Overview of SQL and its role in web development."
+                        },
+                        {
+                            "title": "SQL",
+                            "description": "Introduction to SQL and its basic commands.",
+                            "subtopics": [
+                                "What is SQL?",
+                                "SQL Databases",
+                                "Column Types",
+                                "Creating Tables"
+                            ]
+                        },
+                        {
+                            "title": "SQL Commands",
+                            "description": "Basic SQL commands for interacting with databases.",
+                            "subtopics": [
+                                "SELECT",
+                                "INSERT",
+                                "UPDATE",
+                                "DELETE"
+                            ]
+                        },
+                        {
+                            "title": "Advanced SQL",
+                            "description": "Advanced SQL concepts and commands.",
+                            "subtopics": [
+                                "Functions",
+                                "Other Clauses (LIMIT, ORDER BY, GROUP BY, HAVING)",
+                                "Joining Tables",
+                                "JOIN Query",
+                                "Indexing",
+                                "SQL Vulnerabilities"
+                            ]
+                        },
+                        {
+                            "title": "Working with SQL in the Terminal",
+                            "description": "Practical exercises for using SQL in the terminal.",
+                            "subtopics": [
+                                "Setting up SQLite",
+                                "Basic SQL Operations in Terminal"
+                            ]
+                        },
+                        {
+                            "title": "Django Models",
+                            "description": "Introduction to Django models and their usage.",
+                            "subtopics": [
+                                "Creating Models",
+                                "Fields in Django Models",
+                                "Defining Relationships",
+                                "Customizing Model Representation"
+                            ]
+                        },
+                        {
+                            "title": "Migrations",
+                            "description": "Managing database schema changes with Django migrations.",
+                            "subtopics": [
+                                "Creating Migrations",
+                                "Applying Migrations",
+                                "Making Changes to Models"
+                            ]
+                        },
+                        {
+                            "title": "Using the Django Shell",
+                            "description": "Interacting with the database using the Django shell.",
+                            "subtopics": [
+                                "Adding Data",
+                                "Querying Data",
+                                "Updating and Deleting Data"
+                            ]
+                        },
+                        {
+                            "title": "Starting Our Application",
+                            "description": "Building a basic application using Django models.",
+                            "subtopics": [
+                                "Creating Routes",
+                                "Rendering Templates",
+                                "Connecting Models to Views"
+                            ]
+                        },
+                        {
+                            "title": "Django Admin",
+                            "description": "Using Django's built-in admin interface.",
+                            "subtopics": [
+                                "Setting Up Django Admin",
+                                "Customizing Admin Interface"
+                            ]
+                        },
+                        {
+                            "title": "Many-to-Many Relationships",
+                            "description": "Modeling many-to-many relationships in Django.",
+                            "subtopics": [
+                                "Defining Many-to-Many Relationships",
+                                "Using Association Tables",
+                                "Querying Many-to-Many Relationships"
+                            ]
+                        },
+                        {
+                            "title": "Users",
+                            "description": "Handling user authentication in Django.",
+                            "subtopics": [
+                                "Creating User Models",
+                                "User Authentication",
+                                "User Sessions"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "lesson_title": "JavaScript",
+                    "description": "Learn how to use JavaScript to create interactive and dynamic web applications.",
+                    "learningObjectives": [
+                        "Understand the basics of JavaScript and how it integrates with HTML and CSS",
+                        "Learn about JavaScript events and how to handle them",
+                        "Manipulate the DOM using JavaScript",
+                        "Utilize JavaScript variables and functions",
+                        "Create a TODO list application using JavaScript",
+                        "Understand and use intervals and local storage",
+                        "Fetch and use data from APIs",
+                        "Work with JavaScript objects"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction",
+                            "description": "Overview of JavaScript and its role in web development."
+                        },
+                        {
+                            "title": "JavaScript",
+                            "description": "Introduction to JavaScript and how to include it in web pages.",
+                            "subtopics": [
+                                "Including JavaScript in HTML",
+                                "Basic JavaScript syntax",
+                                "Using the alert function"
+                            ]
+                        },
+                        {
+                            "title": "Events",
+                            "description": "Understanding event-driven programming in JavaScript.",
+                            "subtopics": [
+                                "Event listeners",
+                                "Handling click events"
+                            ]
+                        },
+                        {
+                            "title": "Variables",
+                            "description": "Introduction to variables in JavaScript.",
+                            "subtopics": [
+                                "var, let, const",
+                                "Variable scope"
+                            ]
+                        },
+                        {
+                            "title": "querySelector",
+                            "description": "Using document.querySelector to select and manipulate DOM elements.",
+                            "subtopics": [
+                                "Selecting elements",
+                                "Changing element content"
+                            ]
+                        },
+                        {
+                            "title": "DOM Manipulation",
+                            "description": "Changing the structure and content of the DOM using JavaScript.",
+                            "subtopics": [
+                                "Changing innerHTML",
+                                "Adding and removing elements"
+                            ]
+                        },
+                        {
+                            "title": "JavaScript Console",
+                            "description": "Using the JavaScript console for debugging and testing.",
+                            "subtopics": [
+                                "console.log",
+                                "Inspecting elements"
+                            ]
+                        },
+                        {
+                            "title": "Arrow Functions",
+                            "description": "Introduction to arrow functions in JavaScript.",
+                            "subtopics": [
+                                "Syntax of arrow functions",
+                                "Using arrow functions in event handlers"
+                            ]
+                        },
+                        {
+                            "title": "TODO List",
+                            "description": "Building a TODO list application using JavaScript.",
+                            "subtopics": [
+                                "Creating a TODO list",
+                                "Adding and removing tasks",
+                                "Using forms and input fields"
+                            ]
+                        },
+                        {
+                            "title": "Intervals",
+                            "description": "Using intervals to run functions periodically.",
+                            "subtopics": [
+                                "setInterval function",
+                                "Creating a counter"
+                            ]
+                        },
+                        {
+                            "title": "Local Storage",
+                            "description": "Using local storage to store data on the client side.",
+                            "subtopics": [
+                                "Setting and getting items from local storage",
+                                "Persisting data across page reloads"
+                            ]
+                        },
+                        {
+                            "title": "APIs",
+                            "description": "Fetching data from external APIs using JavaScript.",
+                            "subtopics": [
+                                "Understanding APIs",
+                                "Using fetch to get data",
+                                "Handling JSON data"
+                            ]
+                        },
+                        {
+                            "title": "JavaScript Objects",
+                            "description": "Working with JavaScript objects.",
+                            "subtopics": [
+                                "Creating and accessing objects",
+                                "Using objects to organize data"
+                            ]
+                        },
+                        {
+                            "title": "Currency Exchange",
+                            "description": "Building a currency exchange application using an API.",
+                            "subtopics": [
+                                "Using the European Central Bank's Exchange Rate API",
+                                "Creating a form to get user input",
+                                "Displaying exchange rates"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "lesson_title": "User Interfaces",
+                    "description": "Learn how to design and build user-friendly interfaces using JavaScript and CSS, including single-page applications, infinite scroll, and animations.",
+                    "learningObjectives": [
+                        "Understand common paradigms in User Interface design",
+                        "Create single-page applications using JavaScript",
+                        "Implement scrolling and infinite scroll features",
+                        "Add animations to web pages using CSS and JavaScript",
+                        "Introduction to the React framework",
+                        "Build interactive components and manage state with React"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction",
+                            "description": "Overview of User Interface design principles and their importance."
+                        },
+                        {
+                            "title": "User Interfaces",
+                            "description": "Exploration of how users interact with web pages and how to improve these interactions."
+                        },
+                        {
+                            "title": "Single Page Applications",
+                            "description": "Introduction to single-page applications (SPAs) and their advantages.",
+                            "subtopics": [
+                                "Creating SPAs with JavaScript",
+                                "Simulating page switching",
+                                "Loading data from the server with AJAX",
+                                "Using the JavaScript History API"
+                            ]
+                        },
+                        {
+                            "title": "Scroll",
+                            "description": "Using JavaScript to detect and respond to scrolling events.",
+                            "subtopics": [
+                                "window and document objects",
+                                "Detecting scroll position",
+                                "Changing the page based on scroll position"
+                            ]
+                        },
+                        {
+                            "title": "Infinite Scroll",
+                            "description": "Implementing infinite scroll to dynamically load content as the user scrolls.",
+                            "subtopics": [
+                                "Creating a Django API endpoint",
+                                "Fetching and displaying new content",
+                                "Using scroll events to trigger data loading"
+                            ]
+                        },
+                        {
+                            "title": "Animation",
+                            "description": "Adding animations to web pages using CSS and JavaScript.",
+                            "subtopics": [
+                                "Creating CSS animations with keyframes",
+                                "Animating properties like size and position",
+                                "Using JavaScript to control animations",
+                                "Combining CSS and JavaScript for complex animations"
+                            ]
+                        },
+                        {
+                            "title": "React",
+                            "description": "Introduction to the React framework for building user interfaces.",
+                            "subtopics": [
+                                "Understanding components and state",
+                                "Creating and rendering React components",
+                                "Using JSX for rendering HTML-like syntax",
+                                "Managing state with React hooks"
+                            ]
+                        },
+                        {
+                            "title": "Addition",
+                            "description": "Building an interactive addition game with React.",
+                            "subtopics": [
+                                "Setting up a React project",
+                                "Managing component state",
+                                "Handling user input",
+                                "Implementing game logic and scoring"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "lesson_title": "Testing, CI/CD",
+                    "description": "Learn best practices for testing code, including unit testing, client testing, and using CI/CD pipelines to automate testing and deployment.",
+                    "learningObjectives": [
+                        "Understand the importance of testing in software development",
+                        "Learn to use the assert statement for basic testing",
+                        "Implement Test-Driven Development (TDD)",
+                        "Write and run unit tests using Python's unittest library",
+                        "Apply testing practices to Django applications",
+                        "Use Selenium for client-side testing",
+                        "Set up CI/CD pipelines with GitHub Actions",
+                        "Understand containerization with Docker and Docker Compose"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction",
+                            "description": "Overview of testing, CI/CD, and their roles in software development."
+                        },
+                        {
+                            "title": "Testing",
+                            "description": "Introduction to testing methodologies and their importance in software development."
+                        },
+                        {
+                            "title": "Assert",
+                            "description": "Using the assert statement for basic testing.",
+                            "subtopics": [
+                                "Syntax and usage of assert",
+                                "Examples of assert in Python"
+                            ]
+                        },
+                        {
+                            "title": "Test-Driven Development",
+                            "description": "Developing software by writing tests before writing the actual code.",
+                            "subtopics": [
+                                "Concepts and benefits of TDD",
+                                "Examples and practices"
+                            ]
+                        },
+                        {
+                            "title": "Unit Testing",
+                            "description": "Writing and running unit tests using Python's unittest library.",
+                            "subtopics": [
+                                "Creating test cases",
+                                "Running tests",
+                                "Interpreting test results"
+                            ]
+                        },
+                        {
+                            "title": "Django Testing",
+                            "description": "Applying testing practices to Django applications.",
+                            "subtopics": [
+                                "Creating test cases for Django models",
+                                "Testing views and templates",
+                                "Using Django's TestCase class"
+                            ]
+                        },
+                        {
+                            "title": "Client Testing",
+                            "description": "Testing the client-side code using Selenium.",
+                            "subtopics": [
+                                "Setting up Selenium",
+                                "Writing Selenium tests",
+                                "Running Selenium tests"
+                            ]
+                        },
+                        {
+                            "title": "CI/CD",
+                            "description": "Introduction to Continuous Integration and Continuous Delivery.",
+                            "subtopics": [
+                                "Concepts and benefits of CI/CD",
+                                "Overview of CI/CD pipelines"
+                            ]
+                        },
+                        {
+                            "title": "GitHub Actions",
+                            "description": "Using GitHub Actions to automate testing and deployment.",
+                            "subtopics": [
+                                "Creating workflows with YAML",
+                                "Configuring GitHub Actions",
+                                "Running tests with GitHub Actions"
+                            ]
+                        },
+                        {
+                            "title": "Docker",
+                            "description": "Containerizing applications using Docker and Docker Compose.",
+                            "subtopics": [
+                                "Creating a Dockerfile",
+                                "Building and running Docker containers",
+                                "Using Docker Compose for multi-container applications"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "lesson_title": "Scalability and Security",
+                    "description": "Introduction to scaling up and securing web applications.",
+                    "learningObjectives": [
+                        "Understand principles of scalable web architecture",
+                        "Learn best practices for web security",
+                        "Implement scalable and secure web applications"
+                    ],
+                    "topics": [
+                        {
+                            "title": "Introduction",
+                            "description": "Overview of building web pages, using Git, and deploying web applications.",
+                            "subtopics": [
+                                "Course Recap",
+                                "Web Application Deployment"
+                            ]
+                        },
+                        {
+                            "title": "Scalability",
+                            "description": "Techniques and strategies for scaling web applications.",
+                            "subtopics": [
+                                "Scaling",
+                                "Load Balancing",
+                                "Autoscaling",
+                                "Server Failure"
+                            ]
+                        },
+                        {
+                            "title": "Scaling Databases",
+                            "description": "Methods for scaling databases to handle increased load.",
+                            "subtopics": [
+                                "Vertical Partitioning",
+                                "Horizontal Partitioning",
+                                "Database Replication"
+                            ]
+                        },
+                        {
+                            "title": "Caching",
+                            "description": "Using caching to improve performance and reduce load on databases.",
+                            "subtopics": [
+                                "Client-Side Caching",
+                                "Server-Side Caching",
+                                "Django Cache Framework"
+                            ]
+                        },
+                        {
+                            "title": "Security",
+                            "description": "Best practices for securing web applications.",
+                            "subtopics": [
+                                "Git and GitHub Security",
+                                "HTML Vulnerabilities",
+                                "HTTPS",
+                                "Secret-Key Cryptography",
+                                "Public-Key Cryptography"
+                            ]
+                        },
+                        {
+                            "title": "Database Security",
+                            "description": "Ensuring the security of databases.",
+                            "subtopics": [
+                                "Password Hashing",
+                                "Sensitive Data Handling"
+                            ]
+                        },
+                        {
+                            "title": "APIs",
+                            "description": "Securing APIs and preventing unauthorized access.",
+                            "subtopics": [
+                                "API Keys",
+                                "Rate Limiting",
+                                "Route Authentication"
+                            ]
+                        },
+                        {
+                            "title": "Environment Variables",
+                            "description": "Using environment variables to secure sensitive information.",
+                            "subtopics": [
+                                "Storing Secrets",
+                                "Best Practices"
+                            ]
+                        },
+                        {
+                            "title": "JavaScript Security",
+                            "description": "Protecting web applications from JavaScript-based attacks.",
+                            "subtopics": [
+                                "Cross-Site Scripting (XSS)",
+                                "Cross-Site Request Forgery (CSRF)"
+                            ]
+                        },
+                        {
+                            "title": "What’s next?",
+                            "description": "Exploring additional frameworks and deployment options.",
+                            "subtopics": [
+                                "Server-Side Frameworks",
+                                "Client-Side Frameworks",
+                                "Deployment Services"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

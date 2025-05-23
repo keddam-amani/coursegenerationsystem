@@ -1,0 +1,40 @@
+{
+  "id": "1",
+  "lesson_title": "Lesson Title",
+  "lesson_description": "This lesson provides an overview of the course, including its importance and real-world applications.",
+  "learning_objectives": [
+    "Understand the scope and definition of the course",
+    "Recognize the historical background and key concepts",
+    "Identify the real-world applications and case studies"
+  ],
+  "topics": [
+    {
+      "title": "Topic Title",
+      "content": "Detailed content for the main topic, including when necessary definitions, key concepts, importance, and examples.",
+      "subtopics": [
+        {
+          "title": "Subtopic Title 1",
+          "content": "Detailed content for subtopic 1, providing additional details, examples, or explanations related to the main topic."
+        },
+        {
+          "title": "Subtopic Title 2",
+          "content": "Detailed content for subtopic 2, providing additional details, examples, or explanations related to the main topic."
+        }
+      ]
+    },
+    {
+      "title": "Another Topic Title",
+      "content": "Detailed content for this topic, including when necessary definitions, key concepts, importance, and examples.",
+      "subtopics": [
+        {
+          "title": "Subtopic Title 1",
+          "content": "Detailed content for subtopic 1, providing additional details, examples, or explanations related to the main topic."
+        },
+        {
+          "title": "Subtopic Title 2",
+          "content": "Detailed content for subtopic 2, providing additional details, examples, or explanations related to the main topic."
+        }
+      ]
+    }
+  ]
+}
