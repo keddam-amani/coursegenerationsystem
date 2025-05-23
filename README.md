@@ -40,9 +40,8 @@ To optimize AI interactions, the system incorporates a custom prompt framework:
 - **Examples**
 - **Output Format**
 
-### Frameworks and Techniques Used
+### Prompting Techniques Used
 
-- **Frameworks:** CLEAR, PAR, Custom (RTIEOF)
 - **Prompt Patterns:** Persona Pattern, Fact Check List Pattern
 - **Prompting Techniques:** 
   - Generated Knowledge Prompting
