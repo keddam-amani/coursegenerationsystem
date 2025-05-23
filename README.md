@@ -75,3 +75,8 @@ The system’s output was evaluated using a set of NLP and LLM-informed metrics,
 ##  Conclusion
 
 This project demonstrates the potential of generative AI in education by streamlining the course creation process. While challenges remain, such as maintaining academic integrity and ensuring content relevance, the system provides a scalable starting point for AI-assisted curriculum design.
+
+---
+##  License
+
+This project is licensed under the [MIT License](LICENSE).
