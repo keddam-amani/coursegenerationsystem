@@ -3,7 +3,7 @@
 This project presents an AI-powered system designed to automate the generation of higher education academic courses using OpenAI's language models. It integrates advanced prompt engineering techniques, natural language processing (NLP), and automated fact verification to simplify, accelerate, and enhance the course development process for educators.
 
 **Read the full Master’s Thesis:**  
-[* Designing An End-to-End AI Course Generation System (PDF)*](https://drive.google.com/file/d/1ux6LOoFCKjYs1oqOs-W4lIZ5BBG2fd_-/view?usp=sharing)
+[*Designing an End-to-End AI Course Generation System (PDF)*](https://drive.google.com/file/d/1ux6LOoFCKjYs1oqOs-W4lIZ5BBG2fd_-/view?usp=sharing)
 
 ---
 
